@@ -1,0 +1,14 @@
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\bin\Debug\net9.0\DemoPipeline.exe
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\bin\Debug\net9.0\DemoPipeline.deps.json
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\bin\Debug\net9.0\DemoPipeline.runtimeconfig.json
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\bin\Debug\net9.0\DemoPipeline.dll
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\bin\Debug\net9.0\DemoPipeline.pdb
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\DemoPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\DemoPipeline.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\DemoPipeline.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\DemoPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\DemoPipeline.dll
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\refint\DemoPipeline.dll
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\DemoPipeline.pdb
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\DemoPipeline.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\L\Ejemp-Ejerc\NetEjemplos\DemoPipeline\DemoPipeline\obj\Debug\net9.0\ref\DemoPipeline.dll
