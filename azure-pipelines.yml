@@ -1,0 +1,17 @@
+trigger:
+  - main
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+  - task: UseDotNet@2
+    inputs:
+      packageType: 'sdk'
+      version: '7.0.x'  # cambia si estás usando otra versión
+
+  - script: dotnet build --configuration Release
+    displayName: 'Compilar el proyecto'
+
+  - script: dotnet run
+    displayName: 'Ejecutar el programa'
